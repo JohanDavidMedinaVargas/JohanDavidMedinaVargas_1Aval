@@ -1,0 +1,73 @@
+h1.jobs{
+    background-color:orange ;
+    text-align: center;
+    color: white;
+}
+header.inicio{
+    background-color: orange;
+}
+.links{
+    text-align: center;
+    background-color:aquamarine
+}
+.steve{
+    width: 10%;
+}
+.azul{
+    color: blue;
+    position: relative;
+    bottom: 260px;
+    left: 270px;
+}
+.relleno{
+    background-color: blue;
+    color: blue;
+    position: relative;
+   bottom: 17px;
+   left: -4px;}
+
+.relleno2{
+    background-color: blue;
+    color: blue;
+    position: relative;
+   bottom: 17px;
+   left: -275px;}
+.azulito{
+    background-color: aquamarine;
+    color: aquamarine;
+
+ }
+ .rojo{
+    background-color: red;
+    color: red;
+    position: relative;
+    bottom:18px ;
+    right: 200px;
+ }
+ .comp{
+    position: relative;
+    bottom:32px;
+    background-color: aquamarine;
+    color: red;
+
+ }
+ .pc{
+    position: relative;
+    bottom:230px ;
+    right: -2450px;
+ }
+ .naranja{
+    background-color: salmon;
+    position: relative;
+    bottom: 75px;
+ }
+ .azul2{
+    background-color: blue;
+    color: blue;
+ }
+ .salmon{
+    color: salmon;
+ }
+ .pie{
+    text-align: center;
+ }
